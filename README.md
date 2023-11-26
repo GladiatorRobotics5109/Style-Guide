@@ -38,6 +38,7 @@ Refer to [Java Style Guide](https://google.github.io/styleguide/javaguide.html) 
 
 ### Code Documentation
 - Code should be readable, but if it isn't, document it!
+- Follow the documentation in the example below so VSCode can read it and use to give info when hovering functions
 
 ## Example
 ```
