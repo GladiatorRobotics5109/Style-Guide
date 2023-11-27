@@ -33,7 +33,7 @@ Refer to [Java Style Guide](https://google.github.io/styleguide/javaguide.html) 
 
 ### File Structure
 1. Package statements
-2. Import statements (spaces seperate vendors)
+2. Import statements (new lines seperate vendors)
 3. Top level class declaration
 
 ### Code Documentation
