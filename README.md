@@ -28,7 +28,7 @@ Refer to [Java Style Guide](https://google.github.io/styleguide/javaguide.html) 
 - Classes/Enum/Interfaces - PascalCase
 - Methods - camelCase
 - Variables - camelCase
-    - Constants - kcamelCase
+    - Constants - kPascalCase
     - Members Variables - m_camelCase
 
 ### File Structure
