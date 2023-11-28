@@ -41,7 +41,7 @@ Refer to [Java Style Guide](https://google.github.io/styleguide/javaguide.html) 
 - Follow the documentation in the example below so VSCode can read it and use to give info when hovering functions
 
 ## Example
-```
+```java
 /** 
 * Represents a command-based swerve drivetrain
 */
