@@ -70,7 +70,7 @@ public class SwerveSubsystem extends SubsystemBase {
             rot *= m_maxAngularSpeed;
 
             drive(vx, vy, rot, fieldRelative.getAsBoolean());
-        }).withName("DriveWithJoystickCommand);
+        }).withName("DriveWithJoystickCommand");
     }
 }
 ```
