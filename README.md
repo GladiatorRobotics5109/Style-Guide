@@ -30,6 +30,7 @@ Refer to [Java Style Guide](https://google.github.io/styleguide/javaguide.html) 
 - Variables - camelCase
     - Constants - kPascalCase
     - Members Variables - m_camelCase
+- Command Factories - getCommandNameCommand
 
 ### File Structure
 1. Package statements
